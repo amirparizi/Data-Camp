@@ -8,3 +8,5 @@ exercises, you'll get hands-on with some of the most popular Python libraries, i
 and many more. You'll then work with real-world datasets to learn the statistical and machine learning techniques you 
 need to train decision trees and use natural language processing (NLP). Start this track, grow your Python skills,
 and begin your journey to becoming a confident data scientist.
+
+These are some projects in this career
