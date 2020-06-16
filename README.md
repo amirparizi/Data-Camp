@@ -1,4 +1,4 @@
-# Data-Camp
+# DataCamp
 1. Data Science with Python Career:
 
 Gain the career-building Python skills you need to succeed as a data scientist. No prior coding experience required.
